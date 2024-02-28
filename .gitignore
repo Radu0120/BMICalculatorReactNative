@@ -2,7 +2,7 @@
 
 # dependencies
 node_modules/
-
+BMICalculatorReactNative/
 # Expo
 .expo/
 dist/
